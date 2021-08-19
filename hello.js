@@ -1,5 +1,5 @@
 import React from "react"
 
-export function TestComponent1() {
+export function TestComponent() {
     return React.createElement("div", {style: { color: "red" }}, "Hello, this another test!")
 }
